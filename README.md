@@ -54,8 +54,6 @@ Visualizations:
 ![1](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/2019_Agencies_w_most%20employes.png)
 ![2](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/Dist_BaseSalDistribution.png)
 ![3](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/Dist_GrossPay.png)
-![4](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/Mean_Median_RegularPay.png)
-![5](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/Regular_Gross_Pay_Plot.png)
 ![6](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/Work_Location_Borough.png)
 ![7](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/highest_Paid_employees.png)
 ![8](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/lowest_Paid_employees.png)
