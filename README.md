@@ -12,7 +12,6 @@ Increments of salary increases received over the course of any one fiscal year w
 
 
 
-
 ### Data Dictionary - Column Information
 Column Name	Column Description	Term, Acronym, or Code Definitions	"Additional Notes 
 (where applicable, include the  range of possible values, units of measure, how to interpret null/zero values, whether there are specific relationships between columns, and information on column source)"
@@ -51,3 +50,13 @@ Visualizations:
  - Distribution of Base Salary for Annual Employees making over 10,000
  - Distribution of Base Salary for Annual Employees making over 10,000 all Fiscal years graph
  - Distribution of Gross Pay in 2019
+
+![1](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/2019_Agencies_w_most%20employes.png)
+![2](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/Dist_BaseSalDistribution.png)
+![3](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/Dist_GrossPay.png)
+![4](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/Mean_Median_RegularPay.png)
+![5](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/Regular_Gross_Pay_Plot.png)
+![6](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/Work_Location_Borough.png)
+![7](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/highest_Paid_employees.png)
+![8](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/lowest_Paid_employees.png)
+![1](https://github.com/jhenvi/NYC-Citywide-Payroll-Data/blob/master/Output/Dist_Gross_Pay_2019.png)
